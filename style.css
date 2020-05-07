@@ -1,0 +1,113 @@
+button{
+    background-color: white;
+    color: grey;
+    position: relative;
+    left: 95px;
+    font-size: small !important;
+    height: 30px;   
+}
+.head{
+    background-color: royalblue;
+    color: white;
+    padding: 10px;
+    font-size: 15px;    
+}
+.pic{
+    position: relative;
+    right: 120px;
+}
+.nav-item:hover{
+    background-color: royalblue;
+    color: white !important;
+}
+.nav-item{
+    color: black !important;
+}
+.home{
+    background-color: royalblue;
+    color: white !important;
+}
+.home:hover{
+    color: white;
+}
+nav{
+    position: sticky;
+    top: 0;
+    background-color: whitesmoke;
+    height: 70px;
+    z-index: 1;
+}
+li{
+    display: inline-block;
+    position: relative;
+    left: 520px;
+    bottom: 45px;
+    margin: 3px;
+    padding: 8px;
+    border-radius: 20px; 
+    font-family: georgia;  
+}
+nav div ul li a{
+    text-decoration: none !important;
+}
+.logo{
+    position: relative;
+    top: 5px;
+    left: 90px;
+}
+
+.poster{
+    position: relative;
+    bottom: 20px;
+    z-index: -1;
+}
+p[class="center"]{
+    text-align: center;
+    background-color: royalblue;
+}
+.figc{
+    text-align: center;
+    background-color: royalblue;
+    color: white;
+}
+h1{
+    color: royalblue;
+    letter-spacing: none !important;
+    font-family: Georgia;
+}
+h1 span{
+    color: green;
+}
+.indent{
+    width: 1050px;
+}
+.indent1{
+    color: grey;   
+}
+h5 span{
+    color: #00FF00;
+}
+.box{
+    background-color: royalblue;
+    padding: 10px;   
+}
+h3{
+    color: royalblue;
+    font-family: georgia;
+}
+#scroll{
+    position: relative;
+    left: 920px;
+    bottom: 500px;
+}
+.box9{
+    background-color: #bbb !important;
+    text-align: center
+}
+#copyright{
+    background-color: royalblue;
+    color: white;
+    height: 40px;
+    text-align: center;
+}
+ 
